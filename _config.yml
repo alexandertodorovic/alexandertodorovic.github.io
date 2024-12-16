@@ -35,7 +35,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alexandertodorovic
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: slate
 plugins:
   - jekyll-feed
 
