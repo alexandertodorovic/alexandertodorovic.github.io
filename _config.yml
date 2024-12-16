@@ -35,9 +35,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alexandertodorovic
 
 # Build settings
-theme: minima
+# alex: 2024-12-16
+#theme: minima
+remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # alex: 2024-12-16
 timezone: Europe/Berlin
