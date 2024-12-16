@@ -37,9 +37,9 @@ github_username:  alexandertodorovic
 # Build settings
 # alex: 2024-12-16
 #theme: minima
-remote_theme: pages-themes/time-machine
+remote_theme: pages-themes/cayman
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-remote-theme
 
 # alex: 2024-12-16
