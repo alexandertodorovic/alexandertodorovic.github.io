@@ -37,6 +37,8 @@ github_username:  alexandertodorovic
 # Build settings
 theme: minima
 # alex: 2024-12-16
+plugins:
+  - jemoji
 #plugins:
   #- jekyll-feed
 
