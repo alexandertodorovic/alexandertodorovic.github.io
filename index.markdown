@@ -7,7 +7,7 @@ layout: home
 
 <!-- This content will not appear in the rendered Markdown -->
 
-## *Simplifying Complexity: Data, AI, and Cloud Solutions
+## Simplifying Complexity: Data, AI, and Cloud Solutions
 
 **I am a software architect and consultant**  
 I have a strong focus on designing and implementing modern data architectures. My experience includes working with concepts like data mesh, advanced data analytics, and Azure Data & AI services to help optimize risks, costs, and performance. I enjoy simplifying complex technical architectures for diverse audiences, from technical teams to project managers, and delivering practical prototypes and solutions.  
