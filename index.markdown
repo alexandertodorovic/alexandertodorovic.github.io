@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-#title: "Engineering Modern Data Solutions | Turning Complex Data into Clear Solutions"
 ---
 
 # **Engineering Modern Data Solutions**  
