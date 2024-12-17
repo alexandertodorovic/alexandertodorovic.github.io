@@ -8,7 +8,7 @@ I’m a Third Culture Kid, born and raised in southern Germany. I’ve been inte
 
 Outside of work, I’m passionate about Karate and Japanese culture. I practice Goju-Ryu Karate and am proud to hold a 3rd Dan black belt. Alongside that, I’ve been studying Japanese for years and have achieved Level N2 in the [Japanese-Language Proficiency Test (JLPT)](https://www.jlpt.jp/e/about/levelsummary.html), which allows me to engage with Japanese media and traditions on a deeper level.
 
-When I’m not coding or on the dojo mat, I enjoy discovering new technologies, learning about other cultures, and keeping my curiosity alive.
+When I’m not coding or on the dojo mat, I enjoy discovering new technologies, learning about other cultures, and keeping my curiosity alive. 🌍✨
 
 <!--
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
