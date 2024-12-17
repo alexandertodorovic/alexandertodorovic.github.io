@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I’m a Third Culture Kid, born and raised in southern Germany. I’ve been interested in computer programming since my teenage years. I studied computer science and earned my degree in 2001. Since then, I’ve been working as a professional software engineer and IT consultant.
+I’m a Third Culture Kid, born and raised in southern Germany, with a lifelong passion for computer programming that started in my teenage years. I went on to study computer science and earned my degree in 2001. Since then, I’ve been building my career as a professional software engineer and IT consultant.
 
 Outside of work, I’m passionate about Karate and Japanese culture. I practice Goju-Ryu Karate and am proud to hold a 3rd Dan black belt. Alongside that, I’ve been studying Japanese for years and have achieved Level N2 in the [Japanese-Language Proficiency Test (JLPT)](https://www.jlpt.jp/e/about/levelsummary.html), which allows me to engage with Japanese media and traditions on a deeper level.
 
