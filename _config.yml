@@ -35,8 +35,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alexandertodorovic
 
 # Build settings
-theme: minima
-#remote_theme: pages-themes/architect@v0.2.0
+#theme: minima
+remote_theme: pages-themes/architect@v0.2.0
 # alex: 2024-12-16
 plugins:
   - jemoji
