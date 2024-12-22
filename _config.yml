@@ -44,6 +44,9 @@ plugins:
 #plugins:
   #- jekyll-feed
 
+# alex 2024-12-22
+repository: alexandertodorovic/alexandertodorovic.github.io
+
 # alex: 2024-12-16
 timezone: Europe/Berlin
 
