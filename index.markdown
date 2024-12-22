@@ -5,6 +5,8 @@
 layout: default
 ---
 
+##### [About Me](./about.markdown)
+
 <!-- This content will not appear in the rendered Markdown -->
 
 ## Simplifying Complexity: Data, AI, and Cloud Solutions
