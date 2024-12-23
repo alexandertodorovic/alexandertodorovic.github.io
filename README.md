@@ -6,9 +6,6 @@ Welcome to Alexander's Data & AI Insights, a personal website and blog built usi
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -23,3 +20,11 @@ Alexander's Data & AI Insights is a static site generated using Jekyll. The site
 - **Blog Posts**: A section for publishing articles on various topics related to data and AI.
 - **Remote Theme**: Uses the Cayman theme from GitHub Pages.
 - **Plugins**: Includes plugins for emoji support (`jemoji`) and Atom feed generation (`jekyll-feed`).
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
