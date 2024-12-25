@@ -1,5 +1,6 @@
 ---
 layout: default
+#ayout: about # if you want to use the _layouts/about.html and assets/css/about.css
 title: About Me
 permalink: /about/
 ---
