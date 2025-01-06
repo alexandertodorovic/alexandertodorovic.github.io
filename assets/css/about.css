@@ -40,6 +40,14 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+main img {
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 200px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 footer {
     text-align: center;
     padding: 1rem 0;
