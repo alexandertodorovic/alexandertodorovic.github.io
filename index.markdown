@@ -9,19 +9,18 @@ layout: default
 
 <!-- This content will not appear in the rendered Markdown -->
 
-## Simplifying Complexity: Data, AI, and Cloud Solutions
+## Exploring Data, AI, and Open Source Collaboration
 
-**I am a software architect and consultant**  
-I have a strong focus on designing and implementing modern data architectures. My experience includes working with concepts like data mesh, advanced data analytics, and Azure Data & AI services to help optimize risks, costs, and performance. I enjoy simplifying complex technical architectures for diverse audiences, from technical teams to project managers, and delivering practical prototypes and solutions.  
+Hello and welcome to my website!
 
----
+I'm a professional software developer with extensive experience in software development, and I continuously seek new challenges to grow my skills further. When time allows, I enjoy working on my own projects, exploring new technologies, and sharing knowledge with the community.
 
-**Broad Experience Across Industries**  
-With a background spanning various industries, I have gained hands-on experience in areas such as data warehousing, machine learning, generative AI, AI-assisted programming, and robotic process automation (RPA), along with programming languages like Python and SQL. Over the years, I have contributed to international projects across Europe, the Middle East, Asia, and the Americas, balancing strategy with hands-on implementation.
+I'm passionate about supporting open-source projects. While my full-time development role keeps me quite busy, I’m always happy to contribute with small tasks where I can make a positive impact.
 
 ---
 
-**Continuous Learning and Personal Projects**  
-As a long-time member of the ACM and IEEE, I remain committed to continuous learning and expanding my technical knowledge. I enjoy coding and contributing to open-source projects, and I always look for opportunities to explore new programming technologies. Outside of work, I have been practicing karate since 1998 and continue to work on personal software projects whenever time allows.  
+My areas of expertise include Data Analytics, Artificial Intelligence, Python, and SQL. Currently, I’m expanding my knowledge in Kubernetes, GitHub Actions, and AI-assisted programming to stay at the forefront of modern software practices.
+
+Thank you for visiting my site! Feel free to explore and reach out if you’d like to collaborate or just connect.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexander-todorovic-hitosuji/?locale=en_US).
